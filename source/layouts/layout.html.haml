@@ -1,0 +1,9 @@
+!!! 5
+%html{:lang => "de", class: "wide wow-animation smoothscroll scrollTo"}
+  %head
+    = partial "layouts/head"
+
+  %body
+    = yield
+
+    = javascript_include_tag :application
