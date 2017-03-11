@@ -1,6 +1,6 @@
 .page.text-center
-  %header.page-head
 
+  %header.page-head
     .rd-navbar-wrap
       %nav{"data-md-device-layout" => "rd-navbar-fixed", "data-lg-device-layout" => "rd-navbar-static", :class => "rd-navbar rd-navbar-minimal rd-navbar-light", "data-lg-auto-height" => "true", "data-md-layout" => "rd-navbar-static", "data-lg-layout" => "rd-navbar-static", "data-lg-stick-up" => "true"}
         .rd-navbar-inner
@@ -14,8 +14,8 @@
                   %a{href: "callto:+4915128760177", class: "text-gray-darker"}
                     +49 / (0)151 287 60 177
             %div{class: "rd-navbar-brand veil reveal-md-inline-block"}
-              %a{href: "index.html"}
-                %img{width:'203', height: '70', class: 'img-responsive', src:'images/logo-dark.png', alt:''}
+              = link_to 'index.html' do
+                = image_tag 'logo-dark.png', width:'203', height: '70', class: 'img-responsive', alt:''
             %address{class: "contact-info reveal-sm-inline-block text-left offset-top-10 offset-md-top-0"}
               %div{class: "p unit unit-horizontal unit-spacing-xs"}
                 %div{class: "unit-left"}
@@ -27,10 +27,12 @@
 
           .rd-navbar-panel
             %button{"data-rd-navbar-toggle" => ".rd-navbar, .rd-navbar-nav-wrap", class: "rd-navbar-toggle"}
+              %span
             %div{class: "rd-navbar-brand veil-md"}
-              %a{href: "index.html"}
-                %img{width: '203', height:'70', class:'img-responsive', src:'images/logo-dark.png', alt:''}
+              = link_to 'index.html' do
+                = image_tag 'logo-dark.png', width:'203', height: '70', class: 'img-responsive', alt:''
             %button{"data-rd-navbar-toggle" => ".rd-navbar, .rd-navbar-top-panel", class: "rd-navbar-top-panel-toggle"}
+              %span
 
           = partial "layouts/nav_bar"
 
@@ -45,6 +47,6 @@
           PSYCHOTHERAPIE
       .veil.reveal-md-block
         %h5 Beratung und Therapie von Kindern, Jugendlichen und jungen Erwachsenen
-      %a{href: "contact.html", class: "btn btn-ellipse btn-primary offset-top-24"}
-        Terminvereinbarung
+      = link_to 'Terminvereinbarung', 'contact.html', class: "btn btn-ellipse btn-primary offset-top-24"
+
 
