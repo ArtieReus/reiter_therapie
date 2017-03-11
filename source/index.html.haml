@@ -49,4 +49,68 @@
         %h5 Beratung und Therapie von Kindern, Jugendlichen und jungen Erwachsenen
       = link_to 'Terminvereinbarung', 'contact.html', class: "btn btn-ellipse btn-primary offset-top-24"
 
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        %h3 What makes us different
+        %hr.text-java.divider-custom
+        .range.offset-top-60
+          .cell-md-4
+            .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
+              .unit-left
+                .unit-body
+                  %h5.text-bold.text-bold.text-primary
+                    Modern Equipment
+                  %p
+                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
+          .cell-md-4.offset-top-50.offset-md-top-0
+            .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
+              .unit-left
+                .unit-body
+                  %h5.text-bold.text-bold.text-primary
+                    Modern Equipment
+                  %p
+                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
+          .cell-md-4.offset-top-50.offset-md-top-0
+            .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
+              .unit-left
+                .unit-body
+                  %h5.text-bold.text-bold.text-primary
+                    Modern Equipment
+                  %p
+                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
 
+    %section.section-image-aside.section-image-aside-left.text-sm-left.bg-lighter
+      .shell
+        .range.range-xs-center.range-lg-right.offset-top-0
+          .cell-xs-12.cell-lg-5
+            .section-image-aside-body.section-50.section-md-85.section-md-bottom-110
+              .range
+                .cell-sm-6.cell-lg-12
+                  %h6 Kontakt
+                  %hr.text-subline
+                  %ul.list-unstyled.contact-info.list
+                    %li
+                      .unit.unit-horizontal.unit-middle.unit-spacing-xs
+                        .unit-left
+                          %span.icon.mdi.mdi-phone.text-middle.icon-xxs.text-primary
+                        .unit-body
+                          = link_to '+49 / (0)151 287 60 177','callto:+4915128760177', class: 'text-gray-darker'
+                    %li
+                      .unit.unit-horizontal.unit-middle.unit-spacing-xs
+                        .unit-left
+                          %span.icon.mdi.mdi-map-marker.text-middle.icon-xxs.text-primary
+                        .unit-body.text-left
+                          Senefelderstr. 16
+                          %br
+                          10437 Berlin
+                    %li
+                      .unit.unit-horizontal.unit-middle.unit-spacing-xs
+                        .unit-left
+                          %span.icon.mdi.mdi-email-outline.text-middle.icon-xxs.text-primary
+                        .unit-body
+                          =link_to 'info@psychotherapie-reiter.de', 'mailto:info@psychotherapie-reiter.de', class: 'text-dark'
+      .section-image-aside-map
+        = partial "layouts/map"
+
+    = partial 'layouts/footer'
