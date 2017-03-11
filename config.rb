@@ -25,6 +25,8 @@ configure :development do
   activate :livereload
 end
 
+set :fonts_dir,  'fonts'
+
 ###
 # Helpers
 ###
