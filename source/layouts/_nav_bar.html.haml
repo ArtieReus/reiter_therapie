@@ -5,23 +5,23 @@
         = link_to 'index.html' do
           = image_tag 'logo-dark.png', width:'203', height:'70', class:'img-responsive', alt:''
       %ul.rd-navbar-nav
-        %li.active
+        %li{class: ("active" if page == "index")}
           = link_to 'index.html' do
             %span
               Home
-        %li
+        %li{class: ("active" if page == "behavior_therapy")}
           = link_to 'behavior_therapy.html' do
             %span
               Verhaltenstherapie
-        %li
+        %li{class: ("active" if page == "costs")}
           = link_to 'costs.html' do
             %span
               Kosten
-        %li
+        %li{class: ("active" if page == "about_me")}
           = link_to 'about_me.html' do
             %span
               Über mich
-        %li
+        %li{class: ("active" if page == "contact")}
           = link_to 'contact.html' do
             %span
               Kontakt
