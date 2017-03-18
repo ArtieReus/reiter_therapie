@@ -1,0 +1,33 @@
+%header.page-head
+  .rd-navbar-wrap
+    %nav{"data-md-device-layout" => "rd-navbar-fixed", "data-lg-device-layout" => "rd-navbar-static", :class => "rd-navbar rd-navbar-minimal rd-navbar-light", "data-lg-auto-height" => "true", "data-md-layout" => "rd-navbar-static", "data-lg-layout" => "rd-navbar-static", "data-lg-stick-up" => "true"}
+      .rd-navbar-inner
+
+        .rd-navbar-top-panel
+          %address{class: "contact-info reveal-sm-inline-block text-left offset-none"}
+            %div{class: "p unit unit-spacing-xs unit-horizontal"}
+              .unit-left
+                %span{class: "icon icon-xs icon-circle icon-gray-lighter mdi mdi-phone text-primary"}
+              .unit-body.phone-header
+                %a{href: "callto:+4915128760177", class: "text-gray-darker"}
+                  +49 / (0)151 287 60 177
+          %div{class: "rd-navbar-brand veil reveal-md-inline-block"}
+            = partial "layouts/logo_link"
+          %address{class: "contact-info reveal-sm-inline-block text-left offset-top-10 offset-md-top-0"}
+            %div{class: "p unit unit-horizontal unit-spacing-xs"}
+              %div{class: "unit-left"}
+                %span{class: "icon icon-xs icon-circle icon-gray-lighter mdi mdi-map-marker text-primary"}
+              %div{class: "unit-body"}
+                Senefelderstr. 16
+                %br
+                10437 Berlin
+
+        .rd-navbar-panel
+          %button{"data-rd-navbar-toggle" => ".rd-navbar, .rd-navbar-nav-wrap", class: "rd-navbar-toggle"}
+            %span
+          %div{class: "rd-navbar-brand veil-md"}
+            = partial "layouts/logo_link"
+          %button{"data-rd-navbar-toggle" => ".rd-navbar, .rd-navbar-top-panel", class: "rd-navbar-top-panel-toggle"}
+            %span
+
+        = partial "layouts/nav_bar"
