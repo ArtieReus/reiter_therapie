@@ -1,0 +1,66 @@
+.page.text-center
+
+  = partial "layouts/header", locals: {page: "about_me"}
+
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        .range.range-xs-center
+          .cell-xs-10.cell-md-4
+            .member-block-type-5.inset-md-right-20
+              = image_tag 'kathrin_reiter.jpg', width:'320', height: '358', class: 'mg-responsive center-block', alt:''
+          .cell-xs-10.cell-md-8.text-md-left
+            .text-left
+              %h6= t("about_me.section1.title")
+              %hr.text-subline
+              %p= t("about_me.section1.paragraph1")
+              %p= t("about_me.section1.paragraph2")
+              %p= t("about_me.section1.paragraph3")
+              %p= t("about_me.section1.paragraph4")
+              %p= t("about_me.section1.paragraph5")
+              %p= t("about_me.section1.paragraph6")
+              %p= t("about_me.section1.paragraph7")
+
+              %h6.offset-top-66= t("about_me.section2.title")
+              %hr.text-subline
+              %span= t("about_me.section2.entry1.date")
+              %p= t("about_me.section2.entry1.paragraph")
+
+              %h6.offset-top-66= t("about_me.section3.title")
+              %hr.text-subline
+              %span= t("about_me.section3.entry1.date")
+              %p= t("about_me.section3.entry1.paragraph")
+
+              %span= t("about_me.section3.entry2.date")
+              %p= t("about_me.section3.entry2.paragraph")
+
+              %span= t("about_me.section3.entry3.date")
+              %p= t("about_me.section3.entry3.paragraph")
+
+              %h6.offset-top-66= t("about_me.section4.title")
+              %hr.text-subline
+              %span= t("about_me.section4.entry1.date")
+              %p= t("about_me.section4.entry1.paragraph")
+
+              %span= t("about_me.section4.entry2.date")
+              %p= t("about_me.section4.entry2.paragraph")
+
+              %span= t("about_me.section4.entry3.date")
+              %p= t("about_me.section4.entry3.paragraph")
+
+              %span= t("about_me.section4.entry4.date")
+              %p= t("about_me.section4.entry4.paragraph")
+
+              %span= t("about_me.section4.entry5.date")
+              %p= t("about_me.section4.entry5.paragraph")
+
+              %span= t("about_me.section4.entry6.date")
+              %p= t("about_me.section4.entry6.paragraph")
+
+              %span= t("about_me.section4.entry7.date")
+              %p= t("about_me.section4.entry7.paragraph")
+
+              %span= t("about_me.section4.entry8.date")
+              %p= t("about_me.section4.entry8.paragraph")
+
+    = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}

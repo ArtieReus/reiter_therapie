@@ -1,4 +1,57 @@
 ---
 de:
   home:
-    
+  about_me:
+    section1:
+      title: Kathrin Reiter
+      paragraph1: "Als approbierte Kinder- und Jugendlichenpsychotherapeutin bin ich seit 2012 auf die Behandlung von Kindern, Jugendlichen und jungen Erwachsenen bis zum 21. Lebensjahr spezialisiert."
+      paragraph2: Ich behandle nach den neuesten wissenschaftlichen Standards der Verhaltenstherapie, einem fundierten und wissenschaftlich anerkannten Therapieverfahren. Mein Aufgabengebiet umfasst die Diagnostik, Beratung und Therapie psychischer Erkrankungen.
+      paragraph3: In meiner Psychotherapeutischen Praxis erhalten Sie und ihr Kind Hilfe und Unterstützung in akuten Krisen, belastenden Lebensumständen sowie bei allgemeinen psychischen Erkrankungen. Mir ist es wichtig, Bezugspersonen (meistens die Eltern, jedoch z.B. auch Pflegeeltern) in die Behandlung mit einzubeziehen. Dies ist abhängig vom Alter der Kinder und Jugendlichen, sowie der jeweiligen Problemstellung. Bei Kindern basieren Bezugspersonenstunden auf pädagogischer Beratung, Entwicklungsberatung und/oder Kommunikationsberatung. Bei Jugendlichen und jungen Erwachsenen werden gemeinsame Gespräche geführt und zusammen Lösungen bearbeitet.
+      paragraph4: Als zertifizierte Traumatherapeutin (DeGPT) arbeite ich seit 2013 zusätzlich als Psychotherapeutin in der Traumaambulanz der Charité Berlin. Hier behandle ich in einem interdisziplinären Team Kinder und Jugendliche, die Opfer von Gewalttaten geworden sind. Hierzu zählen beispielsweise häusliche Gewalt, sexueller Missbrauch, Opfer von Überfällen oder Attentaten.
+      paragraph5: In zahlreichen Seminaren und Workshops konnte ich bisher z.B. Mitarbeiter des Jugendamtes oder des Netzwerkes Kinderschutz aber auch Familienzentren, KITA-Fachberatungen oder ehrenamtliche Paten für minderjährige Flüchtlinge, bzgl. "Kinder, Jugendliche und Traumata" informieren.
+      paragraph6: Im Januar 2017 habe ich mich in einer Privatpraxis in Berlin, Prenzlauer Berg niedergelassen.
+      paragraph7: Gerne können Sie mich per Telefon unter 0151/28760177 oder per Mail unter info@psychotherapie-reiter.de kontaktieren, um einen Termin zu vereinbaren.
+    section2:
+      title: Hochschulstudium und Ausbildung
+      entry1:
+        date: 2003-2008
+        paragraph: Studium der Sozialpädagogik, Fachhochschule Coburg
+    section3:
+      title: Weiterbildungen und spezielle Qualifikationen
+      entry1:
+        date: 2014-2015
+        paragraph: <b>Zertifizierung zur Traumatherapeutin</b></br>Spezielle Psychotraumatherapie mit Kindern und Jugendlichen (DeGPT) am Kinder-Trauma-Institut in Offenburg
+      entry2:
+        date: 2012
+        paragraph: <b>staatliche Approbation</b></br>zur Kinder- u. Jugendlichenpsychotherapeutin (VT)
+      entry3:
+        date: 2008-2012
+        paragraph: <b>Staatlich anerkannte Aus- und Weiterbildung</b> zur Kinder- und Jugendlichenpsychotherapeutin (Verhaltenstherapie), an der Akademie für Psychotherapie und Interventionsforschung (API) an der Universität Potsdam
+
+
+    section4:
+      title: Berufliche Tätigkeiten
+      entry1:
+        date: Januar 2017
+        paragraph: Gründung eigener Praxis, Berlin Prenzlauer Berg
+      entry2:
+        date: 2013-heute
+        paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Berliner Traumaambulanz für Opfer von Gewalttaten, Charité – Universitätsmedizin Berlin, Campus Virchow-Klinikum, Klinik für Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters, Leitung: PD Dr. med. Sibylle Winter"
+      entry3:
+        date: 2013-2016
+        paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Privatpraxis für Psychotherapie, Beratung und Coaching, Berlin Grunewald und Berlin Mitte"
+      entry4:
+        date: 2013-2015
+        paragraph: "<b>Wissenschaftliche Mitarbeiterin</b></br> Immediate Biological Embedding of Maltreatment in Children: Berlin Longitudinal Children Study (BMBF), Charité Berlin, Leitung: Prof. Dr. Christine Heim, PD Dr. med. Sibylle Winter"
+      entry5:
+        date: 2012-2013
+        paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Waisenhaus für Straßen- u. Flüchtlingskinder, Südafrika"
+      entry6:
+        date: 2010-2012
+        paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin i.A.</b></br> Psychotherapeutische Ambulanz für Kinder und Jugendliche, Akademie für Psychotherapie und Interventionsforschung, Universität Potsdam"
+      entry7:
+        date: 2012
+        paragraph: "<b>Wissenschaftliche Hilfskraft</b></br> Universität Potsdam, Empirische Bildungsforschung (BMBF): Schulbezogene umschriebene Entwicklungsstörungen – Prävention und Therapie unter Einbezug neuronaler Korrelate und des Entwicklungsverlaufs"
+      entry8:
+        date: 2010-2012
+        paragraph: "<b>Test-Diagnostik</b></br> Praxis Carola Wehrheim-Hahn, Fachärztin für Kinder- u. Jugendpsychiatrie und Psychotherapie, Berlin"
