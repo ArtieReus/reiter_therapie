@@ -11,6 +11,8 @@
               = image_tag 'kathrin_reiter.jpg', width:'320', height: '358', class: 'mg-responsive center-block', alt:''
           .cell-xs-10.cell-md-8.text-md-left
             .text-left
+
+              - # KATRHIN REITER
               %h6= t("about_me.section1.title")
               %hr.text-subline
               %p= t("about_me.section1.paragraph1")
@@ -21,11 +23,13 @@
               %p= t("about_me.section1.paragraph6")
               %p= t("about_me.section1.paragraph7")
 
+              - # HOCHSCHULSTUDIUM UND AUSBILDUNG
               %h6.offset-top-66= t("about_me.section2.title")
               %hr.text-subline
               %span= t("about_me.section2.entry1.date")
               %p= t("about_me.section2.entry1.paragraph")
 
+              - # WEITERBILDUNGEN UND SPEZIELLE QUALIFIKATIONEN
               %h6.offset-top-66= t("about_me.section3.title")
               %hr.text-subline
               %span= t("about_me.section3.entry1.date")
@@ -37,6 +41,7 @@
               %span= t("about_me.section3.entry3.date")
               %p= t("about_me.section3.entry3.paragraph")
 
+              - # BERUFLICHE TÄTIGKEITEN
               %h6.offset-top-66= t("about_me.section4.title")
               %hr.text-subline
               %span= t("about_me.section4.entry1.date")
@@ -62,5 +67,21 @@
 
               %span= t("about_me.section4.entry8.date")
               %p= t("about_me.section4.entry8.paragraph")
+
+              - # BERUFLICHE TÄTIGKEITEN
+              %h6.offset-top-66= t("about_me.section5.title")
+              %hr.text-subline
+
+              %span= t("about_me.section5.entry1.date")
+              %p= t("about_me.section5.entry1.paragraph")
+              %p= t("about_me.section5.entry1.paragraph2")
+
+              - # MITGLIEDSCHAFTEN
+              %h6.offset-top-66= t("about_me.section6.title")
+              %hr.text-subline
+
+              %p= t("about_me.section6.entry1")
+              %p= t("about_me.section6.entry2")
+              %p= t("about_me.section6.entry3")
 
     = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}

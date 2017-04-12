@@ -1,19 +1,20 @@
 .page.text-center
 
-  = partial "layouts/header", locals: {page: "index"}
+  = partial "layouts/header_index", locals: {page: "index"}
 
   %section{class:"breadcrumb-modern context-dark text-md-left"}
     %div{class: "shell section-34 section-md-top-110 section-md-bottom-41"}
-      .text-md-left
+      .text-md-right
         %h2
           WILLKOMMEN IN
           %br.veil.reveal-md-block
           MEINER PRAXIS FÜR
           %br.veil.reveal-md-block
           PSYCHOTHERAPIE
-      .veil.reveal-md-block
+      .veil.reveal-md-block.text-md-right
         %h5 Beratung und Therapie von Kindern, Jugendlichen und jungen Erwachsenen
-      = link_to 'Terminvereinbarung', 'contact.html', class: "btn btn-ellipse btn-primary offset-top-24"
+      .text-md-right
+        = link_to 'Terminvereinbarung', 'contact.html', class: "btn btn-ellipse btn-primary offset-top-24"
 
   %main.page-content
     %section.section-98.section-sm-110
@@ -21,30 +22,26 @@
         %h3 What makes us different
         %hr.text-java.divider-custom
         .range.offset-top-60
-          .cell-md-4
+          .cell-md-6
             .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
               .unit-left
                 .unit-body
                   %h5.text-bold.text-bold.text-primary
-                    Modern Equipment
+                    Beratung und Psychotherapie
                   %p
-                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
-          .cell-md-4.offset-top-50.offset-md-top-0
+                    %b Braucht mein Kind Psychotherapie?
+                  %p
+                    Besteht bei Kindern, Jugendlichen, jungen Erwachsenen, den Eltern oder im sozialen Umfeld (z.B. in der Schule, KITA) Leidensdruck, ist es sinnvoll therapeutische Hilfe zu suchen.
+          .cell-md-6.offset-top-50.offset-md-top-0
             .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
               .unit-left
                 .unit-body
                   %h5.text-bold.text-bold.text-primary
-                    Modern Equipment
+                    Seminare, Vorträge, workshops
                   %p
-                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
-          .cell-md-4.offset-top-50.offset-md-top-0
-            .unit.unit-sm.unit-sm-horizontal.unit-spacing-sm.text-sm-left
-              .unit-left
-                .unit-body
-                  %h5.text-bold.text-bold.text-primary
-                    Modern Equipment
+                    %b Sie suchen eine Referentin zum Thema „Traumatisierung“?
                   %p
-                    We use the latest medical equipment to deliver top-class cosmetic surgery services.
+                    In zahlreichen Seminaren, Vorträgen und workshops konnte ich bisher Mitarbeiter und Interessierte schulen.
 
     %section.section-image-aside.section-image-aside-left.text-sm-left.bg-lighter
       .shell
@@ -61,7 +58,7 @@
                         .unit-left
                           %span.icon.mdi.mdi-phone.text-middle.icon-xxs.text-primary
                         .unit-body
-                          = link_to '+49 / (0)151 287 60 177','callto:+4915128760177', class: 'text-gray-darker'
+                          = link_to '(0)151 287 60 177','callto:+4915128760177', class: 'text-gray-darker'
                     %li
                       .unit.unit-horizontal.unit-middle.unit-spacing-xs
                         .unit-left
