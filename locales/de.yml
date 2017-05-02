@@ -1,6 +1,14 @@
 ---
 de:
   home:
+  behavior_therapy:
+    section1:
+      paragraph1: Die Verhaltenstherapie ist eine von mehreren möglichen Therapieformen, psychische Probleme zu behandeln. Sie wurde vor allem in den USA aus der Lerntheorie entwickelt.
+      paragraph2: Der Kerngedanke ist, dass (problematisches) Verhalten erlernt wurde und auch wieder "verlernt" werden kann, bzw. neue, angemessenere Verhaltensmuster erlernt werden können.
+      paragraph3: In der Verhaltenstherapie - auch kognitive Verhaltenstherapie genannt - werden die Schwierigkeiten und Probleme des Patienten im Hier und Jetzt bearbeitet. Da unser Verhalten entscheidend dadurch bestimmt wird, was wir denken und fühlen, bezieht sich die Verhaltenstherapie nicht nur auf das sichtbare Handeln einer Person. Auch unser Denken und die Art und Weise, wie wir Informationen aus unserer Umgebung verarbeiten, stehen im Fokus der Therapie. Im Rahmen einer Verhaltenstherapie wird deswegen nicht nur am konkreten, sichtbaren Verhalten gearbeitet, sondern auch an den dazugehörigen Gefühlen und Gedanken.
+      paragraph4: Bei der Verhaltenstherapie mit Kindern und Jugendlichen werden hierfür je nach Alter unterschiedliche, dem Entwicklungsstand angepasste, Methoden angewendet.
+      paragraph5: "<b>Moderne kognitive Verhaltenstherapie</b> ist <b>problemorientiert</b> und setzt an aktuell bestehenden Schwierigkeiten an. Die Methoden werden dabei individuell auf den Patienten und die jeweilige Problematik angepasst. Da die kognitive Verhaltenstherapie sehr <b>zielorientiert</b> ist und mit dem Patienten und dessen Bezugspersonen genaue Ziele vorab definiert werden, ist die Behandlungsdauer während einer Verhaltenstherapie im Vergleich zu anderen Therapieformen häufig von kürzerer Dauer. Verhaltenstherapie ist zudem <b>handlungsorientiert</b>. Um den Therapieerfolg zu erhöhen, ist die aktive Beteiligung des Patienten, und der Bezugspersonen, sehr wichtig. Entscheidend sind die Erprobung von neuen Verhaltens-, Denk- und Erlebensweisen sowie Problemlösestrategien. Verhaltenstherapie ist <b>transparent</b>. Alle Aspekte des therapeutischen Vorgehens werden zu Beginn und während der laufenden Therapie verständlich erklärt, so dass Verhaltenstherapie auch <b>„Hilfe zur Selbsthilfe“</b> bedeutet. Dauerhaftes Ziel ist es, dass dem Patienten und seinen Bezugspersonen am Ende der Therapie Strategien an die Hand gegeben werden, die in zukünftigen schwierigen Situationen, in denen alte Verhaltensmuster auftreten können, im Rahmen einer Rückfallprophylaxe unterstützen können."
+      paragraph6: Verhaltenstherapie ist wissenschaftlich begründet und verfügt über eine große Anzahl unterschiedlicher Techniken und Behandlungsmaßnahmen.
   costs:
     section1:
       title: Gesetzlich Versicherte

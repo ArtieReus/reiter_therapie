@@ -1,0 +1,22 @@
+.page.text-center
+
+  = partial "layouts/header", locals: {page: "behavior_therapy"}
+
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        .range.range-xs-center
+          .cell-sm-12
+            .text-left
+              %h3 Verhaltenstherapie
+              %hr.divider-custom.text-java.hr-left-0.hr-sm-left-2
+
+              .offset-top-66
+                %p= t("behavior_therapy.section1.paragraph1")
+                %p= t("behavior_therapy.section1.paragraph2")
+                %p= t("behavior_therapy.section1.paragraph3")
+                %p= t("behavior_therapy.section1.paragraph4")
+                %p= t("behavior_therapy.section1.paragraph5")
+                %p= t("behavior_therapy.section1.paragraph6")
+
+    = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}
