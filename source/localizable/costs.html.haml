@@ -1,0 +1,41 @@
+.page.text-center
+
+  = partial "layouts/header", locals: {page: ""}
+
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        .range.range-xs-center
+          .cell-sm-12
+            .text-left
+              %h3 Kosten
+              %hr.divider-custom.text-java.hr-left-0.hr-sm-left-2
+
+              .offset-top-66
+                -# Gesetzlich Versicherte
+                %h6= t("costs.section1.title")
+                %hr.text-subline
+                %p= t("costs.section1.paragraph1")
+                %p
+                  %b= t("costs.section1.paragraph2")
+                %ul.list.list-marked
+                  %li
+                    = t("costs.section1.paragraph3")
+                    %br
+                    %a{href: 'http://www.bptk.de/uploads/media/BPtK_Ratgeber_Kostenerstattung.pdf'} http://www.bptk.de/uploads/media/BPtK_Ratgeber_Kostenerstattung.pdf
+                  %li
+                    = t("costs.section1.paragraph4")
+                    %br
+                    %a{href: 'http://www.psychotherapeutenkammer-berlin.de/aktuelles/nachrichten/5440274.html'} http://www.psychotherapeutenkammer-berlin.de/aktuelles/nachrichten/5440274.html
+
+                -# Privat Krankenversicherte / Beihilfe
+                %h6.offset-top-66= t("costs.section2.title")
+                %hr.text-subline
+                %p= t("costs.section2.paragraph1")
+
+                -# Selbstzahler
+                %h6.offset-top-66= t("costs.section3.title")
+                %hr.text-subline
+                %p= t("costs.section3.paragraph1")
+
+    = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}
