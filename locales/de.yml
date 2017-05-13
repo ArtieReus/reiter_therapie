@@ -9,6 +9,90 @@ de:
       paragraph4: Bei der Verhaltenstherapie mit Kindern und Jugendlichen werden hierfür je nach Alter unterschiedliche, dem Entwicklungsstand angepasste, Methoden angewendet.
       paragraph5: "<b>Moderne kognitive Verhaltenstherapie</b> ist <b>problemorientiert</b> und setzt an aktuell bestehenden Schwierigkeiten an. Die Methoden werden dabei individuell auf den Patienten und die jeweilige Problematik angepasst. Da die kognitive Verhaltenstherapie sehr <b>zielorientiert</b> ist und mit dem Patienten und dessen Bezugspersonen genaue Ziele vorab definiert werden, ist die Behandlungsdauer während einer Verhaltenstherapie im Vergleich zu anderen Therapieformen häufig von kürzerer Dauer. Verhaltenstherapie ist zudem <b>handlungsorientiert</b>. Um den Therapieerfolg zu erhöhen, ist die aktive Beteiligung des Patienten, und der Bezugspersonen, sehr wichtig. Entscheidend sind die Erprobung von neuen Verhaltens-, Denk- und Erlebensweisen sowie Problemlösestrategien. Verhaltenstherapie ist <b>transparent</b>. Alle Aspekte des therapeutischen Vorgehens werden zu Beginn und während der laufenden Therapie verständlich erklärt, so dass Verhaltenstherapie auch <b>„Hilfe zur Selbsthilfe“</b> bedeutet. Dauerhaftes Ziel ist es, dass dem Patienten und seinen Bezugspersonen am Ende der Therapie Strategien an die Hand gegeben werden, die in zukünftigen schwierigen Situationen, in denen alte Verhaltensmuster auftreten können, im Rahmen einer Rückfallprophylaxe unterstützen können."
       paragraph6: Verhaltenstherapie ist wissenschaftlich begründet und verfügt über eine große Anzahl unterschiedlicher Techniken und Behandlungsmaßnahmen.
+  services:
+    seminars:
+      section1:
+        title: 'Sie suchen eine Referentin zum Thema „Traumatisierung“?'
+        paragraph1: In zahlreichen Seminaren, Vorträgen und workshops konnte ich bisher Mitarbeiter und Interessierte schulen.
+      section2:
+        list:
+          entry1: Caritas Alexandria, Ägypten
+          entry2: Sozialpädagogisches Fortbildungsinstitut Berlin/Brandenburg
+          entry3: Kein Abseits! e.V., Mentorenprojekt für Flüchtlinge, Berlin
+          entry4: Humanistischer Verband, Berlin
+          entry5: Jugendamt Berlin Mitte, Netzwerk Kinderschutz
+          entry6: Kindertagesstätten und Familienzentren, Berlin
+          entry7: KITA-Fachberatung, Landesverband Berlin
+          entry8: Seminar für Lehramtsstudenten, Potsdam
+          entry9: Ehrenamtliche Paten für unbegleitete Flüchtlinge, Berlin
+          entry10: Fachtagung Drogenberatungsstelle für Mädchen und Frauen, Essen
+          entry11: Interview, Zeitschrift kizz, Elternmagazin, Ausgabe Oktober 2015
+          entry12: Betreuung einer Bachelor-Arbeit „Entwicklung eines Produktes zur Unterstützung der Behandlung von Kindern u. Jugendlichen mit PTBS“, Studiengang Design, Universität der Künste Berlin, 2016
+      section3:
+        title: Mögliche Fragestellungen für Seminare, Vorträge oder workshops
+        list:
+          entry1: Was ist ein Trauma?
+          entry2: Symptome und Ursachen
+          entry3: Posttraumatische Belastungsstörung (PTBS) und Traumafolgestörungen
+          entry4: Risiko- und Schutzfaktoren
+          entry5: Traumtisches Spiel
+          entry6: Altersgerechte Entwicklungsphasen und traumabedingte Auffälligkeiten
+          entry7: Flüchtlingskinder
+          entry8: Umgang mit traumatisierten Kindern und Jugendlichen sowie praktische Hilfen für Eltern, Lehrer
+          entry9: Psychohygiene für Helfer
+          entry10: und andere Themen
+      section4:
+        paragraph1: Bei Bedarf können Sie sich gerne bei mir melden und wir besprechen Ihr Anliegen. 
+    consulting:
+      section1:
+        title: Braucht mein Kind Psychotherapie?
+        paragraph1: "Besteht bei Kindern, Jugendlichen, jungen Erwachsenen, den Eltern oder im sozialen Umfeld (z.B. in der Schule, KITA) Leidensdruck, ist es sinnvoll therapeutische Hilfe zu suchen. <br>Bei folgenden Altersgruppen und Symptomen empfiehlt sich Beratung und therapeutische Unterstützung:"
+      section2:
+        title: Kleinkinder
+        list:
+          entry1: Oppositionelles Verhalten (z.B. Aggressionen)
+          entry2: Schlafstörungen (z.B. Ein- und Durchschlafstörungen)
+          entry3: Übermäßige Ängstlichkeit (z.B. Trennungs- und/oder Verlustängste)
+      section3:
+        title: Vorschul- und Schulkinder
+        list:
+          entry1: Autismus
+          entry2: Ängste und Depressionen
+          entry3: Aufmerksamkeits- und Hyperaktivitätsstörungen (ADS oder ADHS)
+          entry4: Borderline
+          entry5: Einnässen / Einkoten (nachts und/oder tagsüber)
+          entry6: Geschwisterrivalitäten
+          entry7: Minderwertigkeitsgefühle/geringes Selbstbewusstsein
+          entry8: Störungen des Sozialverhaltens (aggressives und/oder oppositionelles Verhalten in der Schule und/oder zuhause)
+          entry9: Tics (z.B. Nägelkauen, blinzeln, räuspern)
+          entry10: Umgang mit Trennung der Eltern
+          entry11: Zwangsstörungen (quälende, immer wiederkehrende Gedanken und Handlungen)
+      section4:
+        title: Jugendliche und junge Erwachsene
+        list:
+          entry1: Aggressivität
+          entry2: Ängste und Depressionen
+          entry3: Essstörungen (z.B. Magersucht oder Ess-Brech-Sucht)
+          entry4: Selbstverletzendes Verhalten (z.B. ritzen)
+          entry5: Zwangsstörungen
+      section5:
+        title: Alle Altersbereiche
+        list:
+          entry1: Traumata (z.B. sexueller Missbrauch, häusliche Gewalt, Attentate, körperliche Überfälle, Tod)
+      section6:
+        title: Ablauf Psychotherapie
+        paragraph1: Bevor es zu einer Psychotherapie kommt, vereinbaren wir ein Erstgespräch und lernen uns in probatorischen Sitzungen kennen.
+        list:
+          entry1:
+            title: Erstgespräch
+            paragraph1: Nach einer ersten Kontaktaufnahme vereinbaren wir einen Termin für ein Erstgespräch. Hier können Sie ihr Anliegen schildern und es werden erste relevante Informationen, die für das weitere Vorgehen ausschlaggebend sind, ausgetauscht.
+          entry2:
+            title: Probatorische Sitzungen
+            paragraph1: "Die ersten fünf Sitzungen (sog. probatorischen Stunden) dienen dazu, sich kennenzulernen und dem ausführlichen Besprechen der individuellen Probleme. Ich erkläre Ihnen meine therapeutische Arbeitsweise und wir entscheiden gemeinsam, ob die Aufnahme einer ambulanten Psychotherapie für Ihr Kind nötig erscheint bzw. ob eine Indikation für eine ambulante Psychotherapie gegeben ist. Gemeinsam stellen wir dann einen Fahrplan für die Psychotherapie auf. <br>Bei Bedarf kann die Diagnosestellung mittels unterschiedlicher Testungen (z.B. Fragebogen für Eltern, Lehrer und Erzieher / Intelligenzdiagnostik / Lese-Rechtschreib- oder Dyskalkulie-Testung oder störungsspezifischer Diagnostik) unterstützt werden. <br> In der Regel erfolgt dann anschließend die Beantragung der Psychotherapie bei Ihrer Krankenkasse."
+          entry3:
+            title: Psychotherapie
+            paragraph1: "Eine ambulante Psychotherapie kann als Kurzzeittherapie (25 Stunden für das Kind/Jugendlichen und 6 Stunden für die Bezugspersonen) oder als Langzeittherapie (45 Stunden für das Kind/Jugendlichen und 11 Stunden für die Bezugspersonen) erfolgen. Bei Bedarf kann eine Psychotherapie bis zu zwei Mal verlängert werden.<br>Die Therapie erfolgt in Form von Einzelsitzungen. In regelmäßigen Abständen finden zusätzliche Elterngespräche statt. Die Therapietermine erfolgen in einem festen wöchentlichen Rhythmus. In Einzelfällen können jedoch auch von Woche zu Woche individuelle Termine vereinbart werden."
+
   costs:
     section1:
       title: Gesetzlich Versicherte

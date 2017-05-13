@@ -1,0 +1,74 @@
+.page.text-center
+
+  = partial "layouts/header", locals: {page: "services"}
+
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        .range.range-xs-center
+          .cell-sm-12
+            .text-left
+              %h3 Beratung und Psychotherapie
+              %hr.divider-custom.text-java.hr-left-0.hr-sm-left-2
+
+              .offset-top-66
+                %h4= t("services.consulting.section1.title")
+                %p= t("services.consulting.section1.paragraph1")
+
+                -# Kleinkinder
+                %h6.offset-top-66= t("services.consulting.section2.title")
+                %hr.text-subline
+                %ul.list.list-marked
+                  %li= t("services.consulting.section2.list.entry1")
+                  %li= t("services.consulting.section2.list.entry2")
+                  %li= t("services.consulting.section2.list.entry3")
+
+                -# Vorschul- und Schulkinder
+                %h6.offset-top-66= t("services.consulting.section3.title")
+                %hr.text-subline
+                %ul.list.list-marked
+                  %li= t("services.consulting.section3.list.entry1")
+                  %li= t("services.consulting.section3.list.entry2")
+                  %li= t("services.consulting.section3.list.entry3")
+                  %li= t("services.consulting.section3.list.entry4")
+                  %li= t("services.consulting.section3.list.entry5")
+                  %li= t("services.consulting.section3.list.entry6")
+                  %li= t("services.consulting.section3.list.entry7")
+                  %li= t("services.consulting.section3.list.entry8")
+                  %li= t("services.consulting.section3.list.entry9")
+                  %li= t("services.consulting.section3.list.entry10")
+                  %li= t("services.consulting.section3.list.entry11")
+
+                -# Jugendliche und junge Erwachsene
+                %h6.offset-top-66= t("services.consulting.section4.title")
+                %hr.text-subline
+                %ul.list.list-marked
+                  %li= t("services.consulting.section4.list.entry1")
+                  %li= t("services.consulting.section4.list.entry2")
+                  %li= t("services.consulting.section4.list.entry3")
+                  %li= t("services.consulting.section4.list.entry4")
+                  %li= t("services.consulting.section4.list.entry5")
+
+                -# Alle Altersbereiche
+                %h6.offset-top-66= t("services.consulting.section5.title")
+                %hr.text-subline
+                %ul.list.list-marked
+                  %li= t("services.consulting.section5.list.entry1")
+
+                %h4.offset-top-66= t("services.consulting.section6.title")
+                %p= t("services.consulting.section6.paragraph1")
+                %ol.list.list-numbered
+                  %li
+                    %span
+                      %b= t("services.consulting.section6.list.entry1.title")
+                      %p= t("services.consulting.section6.list.entry1.paragraph1")
+                  %li
+                    %span
+                      %b= t("services.consulting.section6.list.entry2.title")
+                      %p= t("services.consulting.section6.list.entry2.paragraph1")
+                  %li
+                    %span
+                      %b= t("services.consulting.section6.list.entry3.title")
+                      %p= t("services.consulting.section6.list.entry3.paragraph1")
+
+    = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}

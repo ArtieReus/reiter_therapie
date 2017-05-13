@@ -1,0 +1,51 @@
+.page.text-center
+
+  = partial "layouts/header", locals: {page: "services"}
+
+  %main.page-content
+    %section.section-98.section-sm-110
+      .shell
+        .range.range-xs-center
+          .cell-sm-12
+            .text-left
+              %h3 Seminare, Vorträge, Workshops
+              %hr.divider-custom.text-java.hr-left-0.hr-sm-left-2
+
+              .offset-top-66
+                %h4= t("services.seminars.section1.title")
+                %p= t("services.seminars.section1.paragraph1")
+
+              %ul.offset-top-66.list.list-marked
+                %li= t("services.seminars.section2.list.entry1")
+                %li= t("services.seminars.section2.list.entry2")
+                %li= t("services.seminars.section2.list.entry3")
+                %li= t("services.seminars.section2.list.entry4")
+                %li= t("services.seminars.section2.list.entry5")
+                %li= t("services.seminars.section2.list.entry6")
+                %li= t("services.seminars.section2.list.entry7")
+                %li= t("services.seminars.section2.list.entry8")
+                %li= t("services.seminars.section2.list.entry9")
+                %li= t("services.seminars.section2.list.entry10")
+                %li= t("services.seminars.section2.list.entry11")
+                %li= t("services.seminars.section2.list.entry12")
+
+              -# Mögliche Fragestellungen für Seminare, Vorträge oder workshops
+              %h6.offset-top-66= t("services.seminars.section3.title")
+              %hr.text-subline
+
+              %ul.list.list-marked
+                %li= t("services.seminars.section3.list.entry1")
+                %li= t("services.seminars.section3.list.entry2")
+                %li= t("services.seminars.section3.list.entry3")
+                %li= t("services.seminars.section3.list.entry4")
+                %li= t("services.seminars.section3.list.entry5")
+                %li= t("services.seminars.section3.list.entry6")
+                %li= t("services.seminars.section3.list.entry7")
+                %li= t("services.seminars.section3.list.entry8")
+                %li= t("services.seminars.section3.list.entry9")
+                %li= t("services.seminars.section3.list.entry10")
+
+              %p.offset-top-66
+                %b= t("services.seminars.section4.paragraph1")
+
+    = partial 'layouts/footer', locals: {bg_color: "bg-lighter"}

@@ -14,9 +14,19 @@
             %span
               Verhaltenstherapie
         %li{class: ("active" if page == "services")}
-          = link_to 'services.html' do
+          = link_to '#' do
             %span
               Angebote
+          %ul.rd-navbar-dropdown
+            %li
+              = link_to 'services_consulting.html' do
+                %span.text-middle
+                  Beratung, Psychotherapie
+            %li
+              = link_to 'services_seminars.html' do
+                %span.text-middle
+                  Seminare, Vorträge, Workshops
+
         %li{class: ("active" if page == "costs")}
           = link_to 'costs.html' do
             %span
