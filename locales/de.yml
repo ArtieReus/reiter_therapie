@@ -3,17 +3,16 @@ de:
   home:
   behavior_therapy:
     section1:
-      paragraph1: Die Verhaltenstherapie ist eine von mehreren möglichen Therapieformen, psychische Probleme zu behandeln. Sie wurde vor allem in den USA aus der Lerntheorie entwickelt.
-      paragraph2: Der Kerngedanke ist, dass (problematisches) Verhalten erlernt wurde und auch wieder "verlernt" werden kann, bzw. neue, angemessenere Verhaltensmuster erlernt werden können.
-      paragraph3: In der Verhaltenstherapie - auch kognitive Verhaltenstherapie genannt - werden die Schwierigkeiten und Probleme des Patienten im Hier und Jetzt bearbeitet. Da unser Verhalten entscheidend dadurch bestimmt wird, was wir denken und fühlen, bezieht sich die Verhaltenstherapie nicht nur auf das sichtbare Handeln einer Person. Auch unser Denken und die Art und Weise, wie wir Informationen aus unserer Umgebung verarbeiten, stehen im Fokus der Therapie. Im Rahmen einer Verhaltenstherapie wird deswegen nicht nur am konkreten, sichtbaren Verhalten gearbeitet, sondern auch an den dazugehörigen Gefühlen und Gedanken.
-      paragraph4: Bei der Verhaltenstherapie mit Kindern und Jugendlichen werden hierfür je nach Alter unterschiedliche, dem Entwicklungsstand angepasste, Methoden angewendet.
-      paragraph5: "<b>Moderne kognitive Verhaltenstherapie</b> ist <b>problemorientiert</b> und setzt an aktuell bestehenden Schwierigkeiten an. Die Methoden werden dabei individuell auf den Patienten und die jeweilige Problematik angepasst. Da die kognitive Verhaltenstherapie sehr <b>zielorientiert</b> ist und mit dem Patienten und dessen Bezugspersonen genaue Ziele vorab definiert werden, ist die Behandlungsdauer während einer Verhaltenstherapie im Vergleich zu anderen Therapieformen häufig von kürzerer Dauer. Verhaltenstherapie ist zudem <b>handlungsorientiert</b>. Um den Therapieerfolg zu erhöhen, ist die aktive Beteiligung des Patienten, und der Bezugspersonen, sehr wichtig. Entscheidend sind die Erprobung von neuen Verhaltens-, Denk- und Erlebensweisen sowie Problemlösestrategien. Verhaltenstherapie ist <b>transparent</b>. Alle Aspekte des therapeutischen Vorgehens werden zu Beginn und während der laufenden Therapie verständlich erklärt, so dass Verhaltenstherapie auch <b>„Hilfe zur Selbsthilfe“</b> bedeutet. Dauerhaftes Ziel ist es, dass dem Patienten und seinen Bezugspersonen am Ende der Therapie Strategien an die Hand gegeben werden, die in zukünftigen schwierigen Situationen, in denen alte Verhaltensmuster auftreten können, im Rahmen einer Rückfallprophylaxe unterstützen können."
-      paragraph6: Verhaltenstherapie ist wissenschaftlich begründet und verfügt über eine große Anzahl unterschiedlicher Techniken und Behandlungsmaßnahmen.
+      paragraph1: Um psychische Probleme zu behandeln, ist die Verhaltenstherapie eine von mehreren möglichen Therapieformen. Sie wurde vor allem in den USA aus der Lerntheorie entwickelt und ist wissenschaftlich sehr gut erforscht.
+      paragraph2: Der Kerngedanke ist, dass (problematisches) Verhalten erlernt wurde und auch wieder „verlernt“ werden kann, bzw. neue, angemessenere Verhaltensmuster erlernt werden können.
+      paragraph3: Die Verhaltenstherapie - auch kognitive Verhaltenstherapie genannt – bearbeitet die Schwierigkeiten und Probleme des Patienten im Hier und Jetzt und setzt somit am aktuellen Verhalten an. Da unser Verhalten entscheidend dadurch bestimmt wird, was wir denken und fühlen, bezieht sich die Verhaltenstherapie nicht nur auf das sichtbare Handeln einer Person. Auch unser Denken und die Art und Weise, wie wir Informationen aus unserer Umgebung interpretieren und verarbeiten, stehen im Fokus der Therapie. Im Laufe einer Verhaltenstherapie wird daher nicht nur am konkreten, sichtbaren Verhalten gearbeitet. Den selben Stellenwert hat der Einbezug der dazugehörigen Gefühle und Gedanken.
+      paragraph4: "Die <b>kognitive Verhaltenstherapie</b> ist <b>problemorientiert</b> und setzt an aktuell bestehenden Schwierigkeiten an. Die Methoden werden dabei individuell auf den Patienten und die jeweilige Problematik angepasst. Insbesondere bei Kindern und Jugendlichen werden diese auf den jeweiligen Entwicklungsstand angepasst. Da die kognitive Verhaltenstherapie sehr <b>zielorientiert</b> ist und mit dem Patienten und dessen Bezugspersonen genaue Ziele vorab definiert werden, ist die Behandlungsdauer während einer Verhaltenstherapie im Vergleich zu anderen Therapieformen meist kürzer. Verhaltenstherapie ist zudem <b>handlungsorientiert</b>. Um den Therapieerfolg zu erhöhen, ist daher die aktive Beteiligung des Patienten und der Bezugspersonen sehr wichtig. Entscheidend sind die Erprobung von neuen Verhaltens-, Denk- und Erlebensweisen sowie Problemlösestrategien im Alltag des Patienten. Verhaltenstherapie ist <b>transparent</b>. Alle Inhalte des therapeutischen Vorgehens werden ab Beginn der Behandlung und während der laufenden Therapie verständlich erklärt, so dass Verhaltenstherapie auch <b>„Hilfe zur Selbsthilfe“</b> bedeutet. Dauerhaftes Ziel ist es, dem Patienten und seinen Bezugspersonen am Ende der Therapie Strategien an die Hand zu geben, die in zukünftigen schwierigen Situationen, in denen alte Verhaltensmuster auftreten können, im Rahmen einer <b>Rückfallprophylaxe</b> unterstützen können."
+      paragraph5: Verhaltenstherapie zeichnet eine große Anzahl an Techniken und Behandlungsmaßnahmen aus.
   services:
     seminars:
       section1:
         title: 'Sie suchen eine Referentin zum Thema „Traumatisierung“?'
-        paragraph1: In zahlreichen Seminaren, Vorträgen und workshops konnte ich bisher Mitarbeiter und Interessierte schulen.
+        paragraph1: Als zertifizierte Traumatherapeutin (DeGPT) biete ich Seminare, Vorträge und Workshops für Einrichtugen und Institutionen an.
       section2:
         list:
           entry1: Caritas Alexandria, Ägypten
@@ -29,7 +28,7 @@ de:
           entry11: Interview, Zeitschrift kizz, Elternmagazin, Ausgabe Oktober 2015
           entry12: Betreuung einer Bachelor-Arbeit „Entwicklung eines Produktes zur Unterstützung der Behandlung von Kindern u. Jugendlichen mit PTBS“, Studiengang Design, Universität der Künste Berlin, 2016
       section3:
-        title: Mögliche Fragestellungen für Seminare, Vorträge oder workshops
+        title: Mögliche Fragestellungen für Seminare, Vorträge oder Workshops
         list:
           entry1: Was ist ein Trauma?
           entry2: Symptome und Ursachen
@@ -42,7 +41,7 @@ de:
           entry9: Psychohygiene für Helfer
           entry10: und andere Themen
       section4:
-        paragraph1: Bei Bedarf können Sie sich gerne bei mir melden und wir besprechen Ihr Anliegen. 
+        paragraph1: Gerne können Sie sich bei mir melden und wir besprechen Ihr Anliegen.
     consulting:
       section1:
         title: Braucht mein Kind Psychotherapie?
@@ -102,7 +101,7 @@ de:
       paragraph4: "Artikel der Psychotherapeutenkammer Berlin:"
     section2:
       title: Privat Krankenversicherte / Beihilfe
-      paragraph1: Vor Begin der ersten Stunde können Sie sich im Voraus bei Ihrer Kasse sowie der Beihilfestelle erkundigen, wie viele Stunden übernommen werden und welche Unterlagen Sie einreichen müssen. Bei privat versicherten Personen hängt die Anzahl der Therapiestunden von dem Vertrag ab, welchen Sie mit Ihrer Kasse geschlossen haben.<br>Die Abrechnung mit den Privaten Krankenversicherungen und den Beihilfestellen erfolgt nach der Gebührenordnung der Psychotherapeuten (GOP).
+      paragraph1: Vor Begin der ersten Stunde können Sie sich im Voraus bei Ihrer Kasse sowie der Beihilfestelle erkundigen, wie viele Stunden übernommen werden und welche Unterlagen Sie einreichen müssen. Bei privat versicherten Personen hängt die Anzahl der Therapiestunden von dem Vertrag ab, welchen Sie mit Ihrer Kasse geschlossen haben.<br>Die Abrechnung mit den Privaten Krankenversicherungen und den Beihilfestellen erfolgt nach der Gebührenordnung für Psychotherapie (GOP).
     section3:
       title: Selbstzahler
       paragraph1: Hierzu muss kein Antragsverfahren bei Ihrer Krankenkasse durchlaufen werden, da Ihnen die Sitzungen privat in Rechnung gestellt werden.<br>Das Honorar orientiert sich an der Gebührenordnung für Psychotherapeuten (GOP).
@@ -113,7 +112,7 @@ de:
       paragraph2: Ich behandle nach den neuesten wissenschaftlichen Standards der Verhaltenstherapie, einem fundierten und wissenschaftlich anerkannten Therapieverfahren. Mein Aufgabengebiet umfasst die Diagnostik, Beratung und Therapie psychischer Erkrankungen.
       paragraph3: In meiner Psychotherapeutischen Praxis erhalten Sie und ihr Kind Hilfe und Unterstützung in akuten Krisen, belastenden Lebensumständen sowie bei allgemeinen psychischen Erkrankungen. Mir ist es wichtig, Bezugspersonen (meistens die Eltern, jedoch z.B. auch Pflegeeltern) in die Behandlung mit einzubeziehen. Dies ist abhängig vom Alter der Kinder und Jugendlichen, sowie der jeweiligen Problemstellung. Bei Kindern basieren Bezugspersonenstunden auf pädagogischer Beratung, Entwicklungsberatung und/oder Kommunikationsberatung. Bei Jugendlichen und jungen Erwachsenen werden gemeinsame Gespräche geführt und zusammen Lösungen bearbeitet.
       paragraph4: Als zertifizierte Traumatherapeutin (DeGPT) arbeite ich seit 2013 zusätzlich als Psychotherapeutin in der Traumaambulanz der Charité Berlin. Hier behandle ich in einem interdisziplinären Team Kinder und Jugendliche, die Opfer von Gewalttaten geworden sind. Hierzu zählen beispielsweise häusliche Gewalt, sexueller Missbrauch, Opfer von Überfällen oder Attentaten.
-      paragraph5: In zahlreichen Seminaren und Workshops konnte ich bisher z.B. Mitarbeiter des Jugendamtes oder des Netzwerkes Kinderschutz aber auch Familienzentren, KITA-Fachberatungen oder ehrenamtliche Paten für minderjährige Flüchtlinge, bzgl. "Kinder, Jugendliche und Traumata" informieren.
+      paragraph5: In zahlreichen Seminaren und Workshops konnte ich bisher z.B. Mitarbeiter des Jugendamtes oder des Netzwerkes Kinderschutz aber auch Familienzentren, KITA-Fachberatungen oder ehrenamtliche Paten für minderjährige Flüchtlinge, zum Thema „Kinder, Jugendliche und Traumata“ schulen.
       paragraph6: Im Januar 2017 habe ich mich in einer Privatpraxis in Berlin, Prenzlauer Berg niedergelassen.
       paragraph7: Gerne können Sie mich per Telefon unter 0151/28760177 oder per Mail unter info@psychotherapie-reiter.de kontaktieren, um einen Termin zu vereinbaren.
     section2:
@@ -154,18 +153,12 @@ de:
       entry6:
         date: 2010-2012
         paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin i.A.</b></br> Psychotherapeutische Ambulanz für Kinder und Jugendliche, Akademie für Psychotherapie und Interventionsforschung, Universität Potsdam"
-      entry7:
-        date: 2012
-        paragraph: "<b>Wissenschaftliche Hilfskraft</b></br> Universität Potsdam, Empirische Bildungsforschung (BMBF): Schulbezogene umschriebene Entwicklungsstörungen – Prävention und Therapie unter Einbezug neuronaler Korrelate und des Entwicklungsverlaufs"
-      entry8:
-        date: 2010-2012
-        paragraph: "<b>Test-Diagnostik</b></br> Praxis Carola Wehrheim-Hahn, Fachärztin für Kinder- u. Jugendpsychiatrie und Psychotherapie, Berlin"
 
     section5:
       title: Referententätigkeiten
       entry1:
         date: 2015-heute
-        paragraph: "<b>Seminare, Vorträge und workshops um Thema „Umgang mit traumatisierten Kindern und Jugendlichen“</b>"
+        paragraph: "<b>Seminare, Vorträge und Workshops zum Thema „Umgang mit traumatisierten Kindern und Jugendlichen“</b>"
         paragraph2: "Caritas Alexandria, Ägypten</br>Sozialpädagogisches Fortbildungsinstitut Berlin/Brandenburg<br>kein Abseits! e.V., Mentorenprojekt für Flüchtlinge, Berlin<br>Humanistischer Verband, Berlin<br>Jugendamt Berlin Mitte, Netzwerk Kinderschutz<br>Kindertagesstätten und Familienzentren, Berlin<br>KITA-Fachberatung, Landesverband Berlin<br>Lehramtsstudenten Brandenburg<br>Ehrenamtliche Paten für unbegleitete Flüchtlinge, Berlin<br>Fachtagung Drogenberatungsstelle für Mädchen und Frauen, Essen<br><br>Experteninterview, Zeitschrift kizz, Elternmagazin, Ausgabe Oktober 2015<br><br>Betreuung einer Bachelor-Arbeit „Entwicklung eines Produktes zur Unterstützung der Behandlung von Kindern u. Jugendlichen mit PTBS“, Studiengang Design, Universität der Künste Berlin"
 
     section6:
