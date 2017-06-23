@@ -16,4 +16,4 @@ gem 'middleman-sprockets', '>= 4.1.0'
 gem 'middleman-compass', '>= 4.0.0'
 
 # deploy
-gem 'middleman-gh-pages'
+gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
