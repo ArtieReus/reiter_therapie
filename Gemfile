@@ -14,3 +14,6 @@ gem 'middleman-livereload', '~> 3.4'
 
 gem 'middleman-sprockets', '>= 4.1.0'
 gem 'middleman-compass', '>= 4.0.0'
+
+# deploy
+gem 'middleman-gh-pages'
