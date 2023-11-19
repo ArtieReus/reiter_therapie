@@ -11,7 +11,7 @@ de:
   services:
     seminars:
       section1:
-        title: 'Sie suchen eine Referentin zum Thema „Traumatisierung“?'
+        title: "Sie suchen eine Referentin zum Thema „Traumatisierung“?"
         paragraph1: Als zertifizierte Traumatherapeutin (DeGPT) biete ich Seminare, Vorträge und Workshops für Einrichtungen und Institutionen an.
       section2:
         list:
@@ -95,10 +95,8 @@ de:
   costs:
     section1:
       title: Gesetzlich Versicherte
-      paragraph1: Als Privatpraxis kann ich mit den gesetzlichen Krankenkassen nur über das <b>Kostenerstattungsverfahren</b> abrechnen. Die gesetzlichen Kassen übernehmen dann in Ausnahmefällen die entstandenen Kosten.<br>Hier sind einige Unterlagen zur Beantragung der Therapie notwendig.<br>Gerne unterstütze ich Sie dabei und erkläre Ihnen die Antragsstellung.
-      paragraph2: "Hier finden Sie weitere Informationen zum Kostenerstattungsverfahren:"
-      paragraph3: "Ausführliche Informationsbroschüre der Bundespsychotherapeutenkammer:"
-      paragraph4: "Artikel der Psychotherapeutenkammer Berlin:"
+      paragraph1: Die in der Praxis erbrachten Leistungen werden direkt mit den Krankenkassen abgerechnet. Vorab muss zur Übernahme der Kosten durch die Krankenkassen ein Therapieantrag gestellt werden. Bei vorliegender Indikation werden die Kosten dann in aller Regel übernommen.
+      paragraph2: Bitte bringen Sie die Versichertenkarte Ihres Kindes zum Erstgespräch mit.
     section2:
       title: Privat Krankenversicherte / Beihilfe
       paragraph1: Vor Beginn der ersten Stunde können Sie sich im Voraus bei Ihrer Kasse sowie der Beihilfestelle erkundigen, wie viele Stunden übernommen werden und welche Unterlagen Sie einreichen müssen. Bei privat versicherten Personen hängt die Anzahl der Therapiestunden von dem Vertrag ab, welchen Sie mit Ihrer Kasse geschlossen haben.<br>Die Abrechnung mit den Privaten Krankenversicherungen und den Beihilfestellen erfolgt nach der Gebührenordnung für Psychotherapie (GOP).
@@ -131,7 +129,6 @@ de:
       entry3:
         date: 2008-2012
         paragraph: <b>Staatlich anerkannte Aus- und Weiterbildung</b> zur Kinder- und Jugendlichenpsychotherapeutin (Verhaltenstherapie), an der Akademie für Psychotherapie und Interventionsforschung (API) an der Universität Potsdam
-
 
     section4:
       title: Berufliche Tätigkeiten
