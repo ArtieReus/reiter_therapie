@@ -90,7 +90,7 @@ de:
             paragraph1: "Die ersten fünf Sitzungen (sog. probatorischen Stunden) dienen dazu, sich kennenzulernen und dem ausführlichen Besprechen der individuellen Probleme. Ich erkläre Ihnen meine therapeutische Arbeitsweise und wir entscheiden gemeinsam, ob die Aufnahme einer ambulanten Psychotherapie für Ihr Kind nötig erscheint bzw. ob eine Indikation für eine ambulante Psychotherapie gegeben ist. Gemeinsam stellen wir dann einen Fahrplan für die Psychotherapie auf. <br>Bei Bedarf kann die Diagnosestellung mittels unterschiedlicher Testungen (z.B. Fragebogen für Eltern, Lehrer und Erzieher / Intelligenzdiagnostik / Lese-Rechtschreib- oder Dyskalkulie-Testung oder störungsspezifischer Diagnostik) unterstützt werden. <br> In der Regel erfolgt dann anschließend die Beantragung der Psychotherapie bei Ihrer Krankenkasse."
           entry3:
             title: Psychotherapie
-            paragraph1: "Eine ambulante Psychotherapie kann als Kurzzeittherapie (25 Stunden für das Kind/Jugendlichen und 6 Stunden für die Bezugspersonen) oder als Langzeittherapie (45 Stunden für das Kind/Jugendlichen und 11 Stunden für die Bezugspersonen) erfolgen. Bei Bedarf kann eine Psychotherapie bis zu zwei Mal verlängert werden.<br>Die Therapie erfolgt in Form von Einzelsitzungen. In regelmäßigen Abständen finden zusätzliche Elterngespräche statt. Die Therapietermine erfolgen in einem festen wöchentlichen Rhythmus. In Einzelfällen können jedoch auch von Woche zu Woche individuelle Termine vereinbart werden."
+            paragraph1: "Eine ambulante Psychotherapie kann als Kurzzeittherapie oder als Langzeittherapie erfolgen. Bei Bedarf kann eine Psychotherapie bis zu zwei Mal verlängert werden.<br>Die Therapie erfolgt in Form von Einzelsitzungen. In regelmäßigen Abständen finden zusätzliche Elterngespräche statt. Die Therapietermine erfolgen in einem festen wöchentlichen Rhythmus. In Einzelfällen können jedoch auch von Woche zu Woche individuelle Termine vereinbart werden."
 
   costs:
     section1:
@@ -117,7 +117,7 @@ de:
       title: Hochschulstudium und Ausbildung
       entry1:
         date: 2003-2008
-        paragraph: Studium der Sozialpädagogik, Fachhochschule Coburg
+        paragraph: Studium der Sozialpädagogik
     section3:
       title: Weiterbildungen und spezielle Qualifikationen
       entry1:
@@ -133,21 +133,27 @@ de:
     section4:
       title: Berufliche Tätigkeiten
       entry1:
+        date: 03/2025 – heute
+        paragraph: "<b>Supervisorin für Verhaltenstherapie</b></br>Zentrum für Seelische Gesundheit an der FU Berlin (ZGFU)"
+      entry2:
+        date: 12/2023 - heute
+        paragraph: "<b>Supervisorin für Verhaltenstherapie</b></br>Akademie für Psychotherapie und Interventionsforschung Potsdam (API)"
+      entry3:
         date: Januar 2017
         paragraph: Gründung eigener Praxis, Berlin Prenzlauer Berg
-      entry2:
+      entry4:
         date: 2013-heute
         paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Berliner Traumaambulanz für Opfer von Gewalttaten, Charité – Universitätsmedizin Berlin, Campus Virchow-Klinikum, Klinik für Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters, Leitung: PD Dr. med. Sibylle Winter"
-      entry3:
+      entry5:
         date: 2013-2016
         paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Privatpraxis für Psychotherapie, Beratung und Coaching, Berlin Grunewald und Berlin Mitte"
-      entry4:
+      entry6:
         date: 2013-2015
         paragraph: "<b>Wissenschaftliche Mitarbeiterin</b></br> Immediate Biological Embedding of Maltreatment in Children: Berlin Longitudinal Children Study (BMBF), Charité Berlin, Leitung: Prof. Dr. Christine Heim, PD Dr. med. Sibylle Winter"
-      entry5:
+      entry7:
         date: 2012-2013
         paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin</b></br> Waisenhaus für Straßen- u. Flüchtlingskinder, Südafrika"
-      entry6:
+      entry8:
         date: 2010-2012
         paragraph: "<b>Kinder- u. Jugendlichenpsychotherapeutin i.A.</b></br> Psychotherapeutische Ambulanz für Kinder und Jugendliche, Akademie für Psychotherapie und Interventionsforschung, Universität Potsdam"
 
